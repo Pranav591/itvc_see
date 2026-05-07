@@ -9,7 +9,7 @@ def multiply(x, y):
 
 def divide(x, y):
     if y == 0:
-        return "Error: Divided by zero"
+        return "Error: Division with zero"
     return x / y
 
 def calculator():
